@@ -1,0 +1,7 @@
+{
+    "user_path": "Put here your user data path (chrome)",
+    "phone_number": "Phone number to buy auto through mbway (for other payment methods you will need to add or dm me on discord)",
+    "min_price": 7,
+    "max_price": 450,
+    "min_discount": 30
+}
